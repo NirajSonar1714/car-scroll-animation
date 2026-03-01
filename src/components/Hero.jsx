@@ -113,7 +113,7 @@ export default function Hero() {
 
           {/* Car */}
           <img
-            src="/car.png"
+            src="/car-scroll-animation/car.png"
             alt="car"
             ref={carRef}
             className="w-100 absolute"
